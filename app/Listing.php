@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Listing extends Model
 {
-    protected $fillable=['company', 'title', 'location', 'email', 'website', 'tags', 'description'];
+    protected $fillable=['logo', 'company', 'title', 'location', 'email', 'website', 'tags', 'description'];
     
     public function scopeFilter($query, array $filter) {
 

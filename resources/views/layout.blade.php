@@ -27,19 +27,6 @@
         </script>
         <title>LaraGigs | Find Laravel Jobs & Projects</title>
 
-        <style>
-            .pagination {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
-            .page-item {
-                padding: 10px;
-                border: 1px solid black;
-                border-radius: 3px;
-                cursor: pointer;
-            }
-        </style>
     </head>
     <body class="mb-48">
         <nav class="flex justify-between items-center mb-4">

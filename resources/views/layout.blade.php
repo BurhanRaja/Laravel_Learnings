@@ -30,7 +30,7 @@
         <style>
             .pagination {
                 display: flex;
-                justify-content: space-around;
+                justify-content: center;
                 align-items: center;
             }
             .page-item {
